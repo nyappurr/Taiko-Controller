@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_25_cm" data-name="25 cm" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 708.661 708.661">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #ff0;
+      }
+
+      .cls-3 {
+        fill: #666;
+      }
+
+      .cls-4 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-5 {
+        fill: #b3b3b3;
+      }
+
+      .cls-6 {
+        fill: #a67d52;
+      }
+
+      .cls-7 {
+        fill: #78cacc;
+      }
+
+      .cls-8 {
+        fill: #fd5f35;
+      }
+    </style>
+  </defs>
+  <g id="Base_w_wire_hole" data-name="Base w/ wire hole">
+    <g>
+      <path class="cls-6" d="M333.147,634.605c-11.742,0-21.26-9.518-21.26-21.26s9.518-21.26,21.26-21.26h21.26V116.599h-21.26c-11.742,0-21.26-9.518-21.26-21.26h0c0-11.742,9.518-21.26,21.26-21.26h21.26V.012C158.716.012.076,158.651.076,354.343s158.639,354.331,354.331,354.331v-74.069h-21.26Z"/>
+      <path class="cls-6" d="M354.407.012v74.067h21.259c11.741,0,21.26,9.518,21.26,21.26h0c0,11.742-9.518,21.26-21.26,21.26h-21.259v475.486h21.259c11.741,0,21.26,9.518,21.26,21.26s-9.518,21.26-21.26,21.26h-21.259v74.069c195.692,0,354.331-158.639,354.331-354.331S550.099.012,354.407.012Z"/>
+    </g>
+    <path class="cls-6" d="M354.407.012C158.716.012.076,158.651.076,354.343s158.639,354.331,354.331,354.331,354.331-158.639,354.331-354.331S550.099.012,354.407.012ZM375.667,634.605h-42.519c-11.742,0-21.26-9.518-21.26-21.26s9.518-21.26,21.26-21.26h42.519c11.741,0,21.26,9.518,21.26,21.26s-9.518,21.26-21.26,21.26ZM396.926,95.339c0,11.741-9.518,21.26-21.26,21.26h-42.519c-11.742,0-21.26-9.518-21.26-21.26h0c0-11.742,9.518-21.26,21.26-21.26h42.519c11.741,0,21.26,9.518,21.26,21.26h0Z"/>
+  </g>
+  <g id="L_Surface" data-name="L Surface">
+    <g id="Piezo">
+      <circle class="cls-1" cx="252.283" cy="354.331" r="38.268"/>
+      <circle class="cls-2" cx="252.283" cy="354.331" r="28.346"/>
+    </g>
+    <g id="Foam_mount" data-name="Foam mount">
+      <rect class="cls-5" x="290.575" y="542.14" width="42.52" height="42.52"/>
+      <rect class="cls-5" x="290.575" y="124" width="42.52" height="42.52"/>
+      <rect class="cls-5" x="120.472" y="333.071" width="42.52" height="42.52"/>
+    </g>
+    <g id="Shock_Mount" data-name="Shock Mount">
+      <g>
+        <circle class="cls-4" cx="311.835" cy="145.26" r="5.669"/>
+        <circle class="cls-4" cx="311.835" cy="145.26" r="21.26"/>
+        <line class="cls-4" x1="311.835" y1="166.52" x2="311.835" y2="124"/>
+        <line class="cls-4" x1="290.575" y1="145.26" x2="333.094" y2="145.26"/>
+      </g>
+      <g>
+        <circle class="cls-4" cx="141.732" cy="354.33" r="5.669"/>
+        <circle class="cls-4" cx="141.732" cy="354.33" r="21.26"/>
+        <line class="cls-4" x1="141.732" y1="375.59" x2="141.732" y2="333.071"/>
+        <line class="cls-4" x1="120.472" y1="354.33" x2="162.991" y2="354.33"/>
+      </g>
+      <g>
+        <circle class="cls-4" cx="311.835" cy="563.4" r="5.669"/>
+        <circle class="cls-4" cx="311.835" cy="563.4" r="21.26"/>
+        <line class="cls-4" x1="311.835" y1="584.66" x2="311.835" y2="542.14"/>
+        <line class="cls-4" x1="290.575" y1="563.4" x2="333.094" y2="563.4"/>
+      </g>
+    </g>
+    <path id="Surface" class="cls-8" d="M99.213,354.331c0,138.527,110.411,251.262,248.031,255.016V99.315c-137.621,3.754-248.031,116.488-248.031,255.016h0Z"/>
+  </g>
+  <g id="L_Rim" data-name="L Rim">
+    <g id="Foam_Mount" data-name="Foam Mount">
+      <rect class="cls-3" x="290.575" y="642.007" width="42.52" height="42.52"/>
+      <rect class="cls-3" x="290.551" y="24.134" width="42.52" height="42.52"/>
+      <rect class="cls-3" x="21.26" y="333.071" width="42.52" height="42.52"/>
+    </g>
+    <g id="Shock_Mount-2" data-name="Shock Mount">
+      <g>
+        <circle class="cls-4" cx="311.835" cy="45.394" r="5.669"/>
+        <circle class="cls-4" cx="311.835" cy="45.394" r="21.26"/>
+        <line class="cls-4" x1="311.835" y1="66.654" x2="311.835" y2="24.134"/>
+        <line class="cls-4" x1="290.575" y1="45.394" x2="333.094" y2="45.394"/>
+      </g>
+      <g>
+        <circle class="cls-4" cx="42.52" cy="354.331" r="5.669"/>
+        <circle class="cls-4" cx="42.52" cy="354.331" r="21.26"/>
+        <line class="cls-4" x1="42.52" y1="375.59" x2="42.52" y2="333.071"/>
+        <line class="cls-4" x1="21.26" y1="354.331" x2="63.779" y2="354.331"/>
+      </g>
+      <g>
+        <circle class="cls-4" cx="311.835" cy="663.266" r="5.669"/>
+        <circle class="cls-4" cx="311.835" cy="663.266" r="21.26"/>
+        <line class="cls-4" x1="311.835" y1="684.526" x2="311.835" y2="642.007"/>
+        <line class="cls-4" x1="290.575" y1="663.266" x2="333.094" y2="663.266"/>
+      </g>
+    </g>
+    <g id="Piezo-2" data-name="Piezo">
+      <circle class="cls-1" cx="133.847" cy="133.847" r="38.268"/>
+      <circle class="cls-2" cx="133.847" cy="133.847" r="28.346"/>
+    </g>
+    <path id="Pad" class="cls-7" d="M85.039,354.331c0-146.356,116.755-265.441,262.205-269.198V.077C154.825,3.852,0,161.008,0,354.331s154.825,350.478,347.244,354.254v-85.056c-145.45-3.758-262.205-122.842-262.205-269.198h0Z"/>
+  </g>
+  <g id="R_Surface" data-name="R Surface">
+    <g id="Foam_Mount-2" data-name="Foam Mount">
+      <rect class="cls-5" x="375.567" y="542.14" width="42.52" height="42.52"/>
+      <rect class="cls-5" x="375.567" y="124" width="42.52" height="42.52"/>
+      <rect class="cls-5" x="545.67" y="333.07" width="42.52" height="42.52"/>
+    </g>
+    <g id="Shock_Mount-3" data-name="Shock Mount">
+      <g>
+        <circle class="cls-4" cx="396.826" cy="145.259" r="5.669"/>
+        <circle class="cls-4" cx="396.826" cy="145.259" r="21.26"/>
+        <line class="cls-4" x1="396.826" y1="166.519" x2="396.826" y2="124"/>
+        <line class="cls-4" x1="418.086" y1="145.259" x2="375.567" y2="145.259"/>
+      </g>
+      <g>
+        <circle class="cls-4" cx="566.929" cy="354.33" r="5.669"/>
+        <circle class="cls-4" cx="566.929" cy="354.33" r="21.26"/>
+        <line class="cls-4" x1="566.929" y1="375.59" x2="566.929" y2="333.07"/>
+        <line class="cls-4" x1="588.189" y1="354.33" x2="545.67" y2="354.33"/>
+      </g>
+      <g>
+        <circle class="cls-4" cx="396.826" cy="563.4" r="5.669"/>
+        <circle class="cls-4" cx="396.826" cy="563.4" r="21.26"/>
+        <line class="cls-4" x1="396.826" y1="584.659" x2="396.826" y2="542.14"/>
+        <line class="cls-4" x1="418.086" y1="563.4" x2="375.567" y2="563.4"/>
+      </g>
+    </g>
+    <g id="Piezo-3" data-name="Piezo">
+      <circle class="cls-1" cx="456.378" cy="354.33" r="38.268"/>
+      <circle class="cls-2" cx="456.378" cy="354.33" r="28.346"/>
+    </g>
+    <path id="Pad-2" data-name="Pad" class="cls-8" d="M609.449,354.331c0-138.527-110.411-251.262-248.031-255.016v510.031c137.621-3.754,248.031-116.488,248.031-255.016h0Z"/>
+  </g>
+  <g id="R_Rim" data-name="R Rim">
+    <g id="Foam_Mount-3" data-name="Foam Mount">
+      <rect class="cls-5" x="375.567" y="642.006" width="42.52" height="42.52" transform="translate(793.653 1326.532) rotate(-180)"/>
+      <rect class="cls-5" x="375.59" y="24.134" width="42.52" height="42.52" transform="translate(793.7 90.787) rotate(-180)"/>
+      <rect class="cls-5" x="644.882" y="333.07" width="42.52" height="42.52" transform="translate(1332.283 708.66) rotate(-180)"/>
+    </g>
+    <g id="Shock_Mount-4" data-name="Shock Mount">
+      <g>
+        <circle class="cls-4" cx="396.826" cy="45.393" r="5.669"/>
+        <circle class="cls-4" cx="396.826" cy="45.393" r="21.26"/>
+        <line class="cls-4" x1="396.826" y1="66.653" x2="396.826" y2="24.134"/>
+        <line class="cls-4" x1="418.086" y1="45.393" x2="375.567" y2="45.393"/>
+      </g>
+      <g>
+        <circle class="cls-4" cx="666.142" cy="354.33" r="5.669"/>
+        <circle class="cls-4" cx="666.142" cy="354.33" r="21.26"/>
+        <line class="cls-4" x1="666.142" y1="375.59" x2="666.142" y2="333.07"/>
+        <line class="cls-4" x1="687.401" y1="354.33" x2="644.882" y2="354.33"/>
+      </g>
+      <g>
+        <circle class="cls-4" cx="396.826" cy="663.266" r="5.669"/>
+        <circle class="cls-4" cx="396.826" cy="663.266" r="21.26"/>
+        <line class="cls-4" x1="396.826" y1="684.526" x2="396.826" y2="642.006"/>
+        <line class="cls-4" x1="418.086" y1="663.266" x2="375.567" y2="663.266"/>
+      </g>
+    </g>
+    <g id="Piezo-4" data-name="Piezo">
+      <circle class="cls-1" cx="574.814" cy="133.846" r="38.268"/>
+      <circle class="cls-2" cx="574.814" cy="133.846" r="28.346"/>
+    </g>
+    <path id="Pad-3" data-name="Pad" class="cls-7" d="M708.661,354.331C708.661,161.008,553.837,3.852,361.417.077v85.056c145.45,3.758,262.205,122.842,262.205,269.198s-116.755,265.441-262.205,269.198v85.056c192.42-3.776,347.244-160.931,347.244-354.254h0Z"/>
+  </g>
+</svg>
